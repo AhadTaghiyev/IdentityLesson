@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "YdGLfxUxI4KnFf5qLz6uZIFUAvwNCOcVmhY2zILUqr8=",
+  "Source": "Identity",
+  "BasePath": "_content/Identity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Identity/wwwroot",
+      "Source": "Identity",
+      "ContentRoot": "/Users/ehedtagiyev/Desktop/Identity/Identity/wwwroot/",
+      "BasePath": "_content/Identity",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ehedtagiyev/Desktop/Identity/Identity/wwwroot/mailtemplates/template.html",
+      "SourceId": "Identity",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ehedtagiyev/Desktop/Identity/Identity/wwwroot/",
+      "BasePath": "_content/Identity",
+      "RelativePath": "mailtemplates/template.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/mailtemplates/template.html"
+    }
+  ]
+}

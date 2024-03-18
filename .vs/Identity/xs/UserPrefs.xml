@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{337E65E7-D255-418D-A759-541667C94141}|Default">
+  <MonoDevelop.Ide.ItemProperties.Identity PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Identity/Controllers/IdentityController.cs">
+    <Files>
+      <File FileName="Identity/Program.cs" Line="88" Column="1" />
+      <File FileName="Identity/Controllers/HomeController.cs" />
+      <File FileName="Identity/FilterAttributes/VerifyBrowser.cs" />
+      <File FileName="Identity/Contexts/AppDbContext.cs" />
+      <File FileName="Identity/appsettings.json" />
+      <File FileName="Identity/Properties/launchSettings.json" />
+      <File FileName="Identity/Migrations/20240315161438_initaldbwithusers.cs" />
+      <File FileName="Identity/Dtos/RegisterPostDto.cs" Line="11" Column="11" />
+      <File FileName="Identity/Dtos/LoginDto.cs" />
+      <File FileName="Identity/Controllers/IdentityController.cs" Line="196" Column="48" />
+      <File FileName="Identity/wwwroot/mailtemplates/template.html" Line="145" Column="128" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Identity" expanded="True">
+            <Node name="Identity" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="IdentityController.cs" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ehedtagiyev/Desktop/Identity/Identity/Controllers/IdentityController.cs" relfile="Identity/Controllers/IdentityController.cs" line="180" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
